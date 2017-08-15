@@ -6,5 +6,7 @@ public abstract class CondimentDecorator extends Beverage {
 		// TODO Auto-generated method stub
 		return 0;
 	}
+	
+	public abstract String getDescription();
 
 }
